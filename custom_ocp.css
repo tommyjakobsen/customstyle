@@ -2,4 +2,6 @@
  * Custom header-color on openshift
  * 
 */
-.navbar-pf-vertical{border:none;border-radius:0;margin-bottom:0;background-color: #0e7e12}
+.navbar-pf-vertical{background-color:#0e7e12;border-bottom:1px solid #050505;border-top:none;min-height:0}
+@media (min-width:767px){.navbar-pf-vertical{padding-left:20px}
+}
