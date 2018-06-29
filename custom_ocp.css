@@ -1,5 +1,5 @@
-<style type="text/css">
-.navbar-pf-vertical{
-background-color: #0e7e12;
-}
-</style>
+/*!
+ * Custom header-color on openshift
+ * 
+*/
+.navbar-pf-vertical{border:none;border-radius:0;margin-bottom:0;background-color: #0e7e12}
